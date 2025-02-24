@@ -33,7 +33,7 @@
 //   ))}  
 // </div>
 
-// spred operator -> ...
+//   spred operator -> ...
 
 // similar
 // {artist === undefined ? artist : "Artist"} -> {artist ? artist : "Artist"} -> {artist ?? "Artist"}
