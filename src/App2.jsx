@@ -37,3 +37,7 @@
 
 // similar
 // {artist === undefined ? artist : "Artist"} -> {artist ? artist : "Artist"} -> {artist ?? "Artist"}
+
+// Quando componentes se re-renderizão: uma das ocasiões é quando uma variável de estado usada por este componente é atualizado
+
+// Hook: useState, useEffect
